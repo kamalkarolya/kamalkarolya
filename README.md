@@ -1,6 +1,5 @@
 - 👋 <b> Hi, I’m @kamalkarolya </b>
 - 👀 <b>I’m interested in Web development</b>
-- 🌱 <b>I’m currently learning Angular</b>
 - 📫 <b>How to reach me <a href="gmail.com/kamalkarolya@gmail.com" >click here! </a></b>
 <!-- - 💞️ <b>I’m looking to collaborate on any project </b>  -->
 <!---
